@@ -103,9 +103,9 @@
         "chapter": "Chris's House",
         "zoom": 15,
         "image": "img/chris_house.jpg",
-        "source-credit": "whatever",
-        "source-link": "https://www.walkingwithbeer.com",
-        "description": "This is Chris's house"
+        "source-credit": "Source: Google Maps",
+        "source-link": "https://www.google.com/maps/place/41%C2%B038'39.6%22N+72%C2%B011'27.6%22W/@41.644327,-72.1915482,220m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d41.644326!4d-72.191001",
+        "description": "This is Chris's House"
       },
       "geometry": {
         "type": "Point",
