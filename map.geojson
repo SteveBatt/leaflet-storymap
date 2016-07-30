@@ -96,11 +96,12 @@
         ]
       }
     },
+    
     {
       "type": "Feature",
       "properties": {
         "id": 6,
-        "chapter": "Chris's House",
+        "chapter": "Chris's Neighbor's House",
         "zoom": 15,
         "image": "img/chris_house.jpg",
         "source-credit": "Source: google maps",
@@ -110,8 +111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.257433,
-          41.752581
+          -72.5,
+          41.9
         ]
       }
     }
